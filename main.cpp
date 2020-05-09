@@ -41,7 +41,7 @@ int main()
     cycleSort(size, mData);
     shellSort(size, mData);
     mergeSort(mData, LB, UB);
-    /*
+    
     BST<int> tree;
     for (int i = 0; i < size; i = i + 2)
     {
@@ -51,7 +51,7 @@ int main()
     tree.displayTree();
     tree.destroyTree();
     system("pause");
-    */
+    
     
     
     
